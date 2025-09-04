@@ -1,7 +1,7 @@
 # Radar Dashboard
 
 A comprehensive Java application suite for real-time radar/sonar data visualization and monitoring. This project provides multiple dashboard implementations with different features and complexity levels, from simple simulated data to full Arduino integration with data logging.
-# view of Dashboard
+# View of Dashboard
 ![Todo List Dashboard](https://i.postimg.cc/rwjw9Vs6/Screenshot-2025-09-04-022919.png)
 
 
